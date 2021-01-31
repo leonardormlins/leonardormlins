@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![Linkedin Badge]](https://www.linkedin.com/in/leonardormlins/)
+![Linkedin Badge](https://www.linkedin.com/in/leonardormlins/)
