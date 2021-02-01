@@ -4,4 +4,5 @@
 Working on [Recipe Master](https://github.com/leonardormlins/recipemaster-api), a personal Typescript API project.
 
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”
+
 ― Steve Jobs
