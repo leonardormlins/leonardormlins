@@ -5,7 +5,7 @@ Fullstack Developer @ [Compsis](https://compsis.com.br/)
 
 Currently working on [Recipe Master](https://github.com/leonardormlins/recipemaster-api), a personal Typescript API project.
 
-I've also studying asynchronous messaging systems.
+I've also studied asynchronous messaging systems.
 
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”
 
