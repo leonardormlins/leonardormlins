@@ -1,7 +1,7 @@
 [<img src="https://github.com/leonardormlins/leonardormlins/blob/main/Linkedin.png" alt="drawing" height="25"/>](https://www.linkedin.com/in/leonardormlins/)
 [<img src="https://github.com/leonardormlins/leonardormlins/blob/main/Email.png" alt="drawing" height="25"/>](mailto:leonardormlins@gmail.com)
 
-Fullstack Developer @ [Compsis](https://compsis.com.br/)
+Fullstack Developer @ [Bizpoke](http://bizpoke.com.br/)
 
 Currently working on [Recipe Master](https://github.com/leonardormlins/recipemaster-api), a personal Typescript API project.
 
