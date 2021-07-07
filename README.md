@@ -3,7 +3,7 @@
 
 Fullstack Developer @ [Bizpoke](http://bizpoke.com.br/)
 
-Currently working on [Recipe Master](https://github.com/leonardormlins/recipemaster-api), a personal Typescript API project.
+Currently working on [Letmeask](https://github.com/leonardormlins/letmeask), a questions manager for live spectators Typescript API project.
 
 I've also studied asynchronous [messaging](https://github.com/leonardormlins/rabbitmq-lab) systems.
 
