@@ -3,10 +3,6 @@
 
 Fullstack Developer @ [Bizpoke](http://bizpoke.com.br/)
 
-Currently working on [Letmeask](https://github.com/leonardormlins/letmeask), a questions manager for live spectators Typescript API project.
-
-I've also studied asynchronous [messaging](https://github.com/leonardormlins/rabbitmq-lab) systems.
-
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”
 
 ― Steve Jobs
